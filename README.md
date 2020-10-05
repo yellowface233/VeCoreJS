@@ -10,7 +10,8 @@ Demo:[https://cdn.7i24.xyz/vecore/][1]
 
 ## 引用
 ### 1.本地文件
-你可以下载https://cdn.7i24.xyz/vecore/vecore.js来在本地引用
+你可以下载https://cdn.7i24.xyz/vecore/vecore.js 来在本地引用
+或者下载本仓库vecore.js
 
 ### 2.CDN
 您可直接使用本站的香港线路CDN 来使用VeCore
